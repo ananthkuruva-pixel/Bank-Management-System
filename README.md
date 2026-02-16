@@ -130,7 +130,7 @@ This project is licensed under the **MIT License**.
 
 ## 📸 Application Execution Output
 
-The screenshot below demonstrates a complete execution flow of the
+The below sample outputs demonstrates a complete execution flow of the
 **Bank Management System CLI application**, including:
 
 * Creating multiple bank accounts with secure PIN setup
